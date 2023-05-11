@@ -12,3 +12,15 @@ Recommended Free MySQL Databases:
 
 ### password
 The initial password is randomly generated, and you can get it by checking the `logs`.
+
+### 变量设置
+
+| 变量参数	  | 示例参数	   | 数据库详情页对应   
+|-----------|--------------|:------:| 
+| DB_HOST	| queenie.db.elephantsql.com	|Server
+| DB_NAME	| bkqgx	User & Default | database
+| DB_PASS	| 5CqBjEVZWdaaad2333aadadadadN3Clo	| Password	
+| DB_SSL_MODE	| disable		
+| DB_TYPE	| postgres		
+| DB_USER	| bkqgx	| User & Default database
+| PORT	| 8080	
