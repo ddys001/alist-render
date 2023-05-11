@@ -17,10 +17,11 @@ The initial password is randomly generated, and you can get it by checking the `
 
 | 变量参数	  | 示例参数	   | 数据库详情页对应   
 |-----------|--------------|:------:| 
-| DB_HOST	| queenie.db.elephantsql.com	|Server
-| DB_NAME	| bkqgx	User & Default | database
+| DB_HOST	| queenie.db.elephantsql.com	| Server(括号里面的不要)
+| DB_NAME	| bkqgx	| User & Default database
 | DB_PASS	| 5CqBjEVZWdaaad2333aadadadadN3Clo	| Password	
-| DB_SSL_MODE	| disable		
-| DB_TYPE	| postgres		
+| DB_SSL_MODE	| disable		| 无需更改
+| DB_TYPE	| postgres		| 无需更改
 | DB_USER	| bkqgx	| User & Default database
-| PORT	| 8080	
+| PORT	| 8080	| 无需更改
+| DN  | https://npm.elemecdn.com/alist-web@$version/dist | 无需更改
