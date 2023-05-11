@@ -13,7 +13,7 @@ Recommended Free MySQL Databases:
 ### password
 The initial password is randomly generated, and you can get it by checking the `logs`.
 
-### 变量设置
+### render变量设置
 
 | 变量参数	  | 示例参数	   | 数据库详情页对应   
 |-----------|--------------|:------:| 
