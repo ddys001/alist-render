@@ -24,4 +24,4 @@ The initial password is randomly generated, and you can get it by checking the `
 | DB_TYPE	| postgres		| 无需更改
 | DB_USER	| bkqgx	| User & Default database
 | PORT	| 8080	| 无需更改
-| DN  | https://npm.elemecdn.com/alist-web@$version/dist | 无需更改
+| CDN  | https://npm.elemecdn.com/alist-web@$version/dist | 无需更改
