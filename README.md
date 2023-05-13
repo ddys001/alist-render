@@ -1,4 +1,4 @@
-# <div style="color:red;">alist-render</div>
+# alist-render
 
 ### Deploy Alist to Render
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
@@ -13,7 +13,7 @@ Recommended Free MySQL Databases:
 ### password
 The initial password is randomly generated, and you can get it by checking the `logs`.
 
-### render变量设置
+### <div style="color:red;">render变量设置</div>
 
 | 变量参数	  | 示例参数	   | 数据库详情页对应   
 |-----------|--------------|:------:| 
